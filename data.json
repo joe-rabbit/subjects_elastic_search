@@ -257,17 +257,17 @@
     {
         "prior_requirements": ["CSE 310"],
         "mandatory_priors": "True",
-        "id": "CSE 365",
+        "id": "CSE 340",
         "Subject_Name": "Principles of Programming Language",
         "Description": "Formal syntatic and semantic descriptions , compilation and implementation issues and theoretical foundations for several programming languages.",
         "Critical_Requirment": "False",
         "Optional": "False",
         "Minimum_Passing_Grade": "C",
         "Total_Credits": "3",
-        "Next_Subject_Code": [],
+        "Next_Subject_Code": ["CSE 485"],
         "Category": "Maroon",
         "Session": "C",
-        "Semester": ["5"]
+        "Semester": ["6"]
     },
     {
         "prior_requirements": [],
