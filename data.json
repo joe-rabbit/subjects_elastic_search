@@ -315,7 +315,7 @@
         "Semester": ["7"]
     },
     {
-        "prior_requirements": ["CSE 486"],
+        "prior_requirements": ["CSE 485"],
         "mandatory_priors": "True",
         "id": "CSE 486",
         "Subject_Name": "Capstone 2",
