@@ -209,6 +209,21 @@
         "Session": "C",
         "Semester": ["5"]
     },
+     {
+        "prior_requirements": ["CSE 240"],
+        "mandatory_priors": "True",
+        "id": "CSE 355",
+        "Subject_Name": "Into Theoretical Comp. Science",
+        "Description": "Introduction to automata and formal language turning machines decidability and undecidability,recursive function theory",
+        "Critical_Requirment": "False",
+        "Optional": "False",
+        "Minimum_Passing_Grade": "C",
+        "Total_Credits": "3",
+        "Next_Subject_Code": ["CSE 485"],
+        "Category": "Gold",
+        "Session": "C",
+        "Semester": ["5"]
+    },
     {
         "prior_requirements": ["MAT 266"],
         "mandatory_priors": "True",
