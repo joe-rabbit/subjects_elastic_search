@@ -4,7 +4,7 @@
         "mandatory_priors": "True",
         "id": "CSE 110",
         "Subject_Name": "Principles of Programming Java",
-        "Description": "An introductory course that teaches the fundamentals of problem-solving using the Java programming language. The course covers algorithm design, structured programming concepts, basic algorithms, techniques, and an overview of computer systems. Social and ethical responsibilities in programming are also discussed.",
+        "Description": "An introductory course that teaches the fundamentals of problem-solving using the Java programming language. The course covers algorithm design, structured programming concepts, basic algorithms, techniques, and an overview of computer systems. Social and ethical responsibilities in programming are also discussed",
         "Critical_Requirment": "True",
         "Optional": "False",
         "Minimum_Passing_Grade": "C",
@@ -13,6 +13,38 @@
         "Category": "Gold",
         "Session": "C",
         "Semester": ["1"]
+    },
+    
+    {
+        "prior_requirements": [],
+        "mandatory_priors": "True",
+        "id": "MAT 117",
+        "Subject_Name": "College Algebra",
+        "Description": "Linear and quadratic functions, systems of linear equations, logarithmic and exponential functions, sequences, series, and combinatorics.",
+        "Critical_Requirment": "True",
+        "Optional": "True",
+        "Minimum_Passing_Grade": "C",
+        "Total_Credits": "3",
+        "Next_Subject_Code": ["MAT 170"],
+        "Category": "Gold",
+        "Session": "C",
+        "Semester": ["1"]
+    },
+
+    {
+        "prior_requirements": [],
+        "mandatory_priors": "True",
+        "id": "MAT 170",
+        "Subject_Name": "Pre-Calculus",
+        "Description": "Topics include functions (including trigonometric), matrices, polar coordinates, vectors, complex numbers, and mathematical induction.",
+        "Critical_Requirment": "True",
+        "Optional": "True",
+        "Minimum_Passing_Grade": "C",
+        "Total_Credits": "3",
+        "Next_Subject_Code": ["MAT 265"],
+        "Category": "Gold",
+        "Session": "C",
+        "Semester": ["2"]
     },
     {
         "prior_requirements": [],
