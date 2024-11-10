@@ -1,6 +1,6 @@
 [
     
-    "Physics 101": {
+     {
         "prior_requirements": [],
         "mandatory_priors": "True",
         "id": "PHY 101",
@@ -15,7 +15,7 @@
         "Session": "A",
         "Semester": ["2"]
     },
-    "Physics 180": {
+    {
         "prior_requirements": ["PHY 101"],
         "mandatory_priors": "True",
         "id": "PHY 180",
@@ -31,7 +31,7 @@
         "Semester": ["3"],
         "Lab": "Compulsory"
     },
-    "Physics 220": {
+     {
         "prior_requirements": ["PHY 180"],
         "mandatory_priors": "True",
         "id": "PHY 220",
@@ -47,7 +47,7 @@
         "Semester": ["4"],
         "Lab": "Compulsory"
     },
-    "Chemistry 101": {
+     {
         "prior_requirements": [],
         "mandatory_priors": "True",
         "id": "CHEM 101",
@@ -62,7 +62,7 @@
         "Session": "A",
         "Semester": ["2"]
     },
-    "Chemistry 160": {
+     {
         "prior_requirements": ["CHEM 101"],
         "mandatory_priors": "True",
         "id": "CHEM 160",
@@ -78,7 +78,7 @@
         "Semester": ["3"],
         "Lab": "Compulsory"
     },
-    "Chemistry 220": {
+    {
         "prior_requirements": ["CHEM 160"],
         "mandatory_priors": "True",
         "id": "CHEM 220",
@@ -94,7 +94,7 @@
         "Semester": ["4"],
         "Lab": "Compulsory"
     },
-    "Biology 100": {
+     {
         "prior_requirements": [],
         "mandatory_priors": "True",
         "id": "BIO 100",
@@ -109,7 +109,7 @@
         "Session": "A",
         "Semester": ["2"]
     },
-    "Biology 160": {
+    {
         "prior_requirements": ["BIO 100"],
         "mandatory_priors": "True",
         "id": "BIO 160",
@@ -125,7 +125,7 @@
         "Semester": ["3"],
         "Lab": "Compulsory"
     },
-    "Biology 220": {
+ {
         "prior_requirements": ["BIO 160"],
         "mandatory_priors": "True",
         "id": "BIO 220",
@@ -146,7 +146,7 @@
         "mandatory_priors": "True",
         "id": "CSE 110",
         "Subject_Name": "Principles of Programming Java",
-        "Description": "An introductory course that teaches the fundamentals of problem-solving using the Java programming language. The course covers algorithm design, structured programming concepts, basic algorithms, techniques, and an overview of computer systems. Social and ethical responsibilities in programming are also discussed",
+        "Description": "An introductory course that teaches the fundamentals of problem-solving using the Java programming. The course covers algorithm design, structured programming concepts, basic algorithms, techniques, and an overview of computer systems. Social and ethical responsibilities in programming are also discussed",
         "Critical_Requirment": "True",
         "Optional": "False",
         "Minimum_Passing_Grade": "C",
